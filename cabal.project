@@ -1,4 +1,5 @@
 packages: .
 tests: true
 
-allow-newer: cryptohash-md5-0.11.100.1:base
+allow-newer:
+  , postgresql-libpq:base
